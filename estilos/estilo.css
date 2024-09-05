@@ -4,3 +4,9 @@ body{
 table{
     background-color: aqua;
 }
+td{
+    background-color: brown;
+    flex: auto;
+    float: inline-end;
+    fill: aliceblue;
+}
