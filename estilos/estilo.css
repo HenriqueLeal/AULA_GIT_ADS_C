@@ -4,3 +4,9 @@ body{
 table{
     background-color: aqua;
 }
+tr{
+    color: gold;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
